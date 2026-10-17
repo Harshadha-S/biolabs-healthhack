@@ -44,12 +44,7 @@ const COORDINATORS = [
     name: 'Rtr. Griti Raj',
     email: 'gritiraj2005@gmail.com',
     phone: '+91 98181 01301',
-  },
-  {
-    name: 'Harshadha S',
-    email: 'harshadha.s@healix-technologies.com',
-    phone: '+91 9940386235',
-  },
+  }
 ]
 
 export function RegistrationSection() {
